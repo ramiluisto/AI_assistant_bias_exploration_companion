@@ -1,0 +1,27 @@
+{
+  "_readme": "Exact parameters used for every LLM-as-a-judge call. The judge was reached through the public OpenAI API (chat completions). Anything not listed was not sent, so the provider default applied.",
+  "endpoint": "https://api.openai.com/v1 (chat completions)",
+  "model": "gpt-5",
+  "messages": "a single message with role 'user' containing the rendered template in llm_judge_prompt.jinja2; no system message was sent",
+  "parameters_sent": {
+    "temperature": 1
+  },
+  "parameters_not_sent": [
+    "top_p",
+    "seed",
+    "max_tokens / max_completion_tokens (no output cap was set)",
+    "frequency_penalty",
+    "presence_penalty",
+    "response_format (JSON was requested in the prompt text, not enforced by the API)",
+    "stream",
+    "n (one completion per call)",
+    "tools"
+  ],
+  "calling_pattern": {
+    "unit": "one call per query triplet: the male, female and neutral responses to a single query were judged together in one call",
+    "repetitions": "one call per triplet per generation run; the judge was not re-run on the same triplet, so these data describe variation between generation runs and not the reliability of the judge",
+    "retries": "up to 3 attempts on API or parse failure; a retry re-sent the identical request",
+    "output_handling": "the response text was parsed as JSON, tolerating a fenced ```json block"
+  },
+  "model_pinning": "The model was called by its unpinned alias. The dated snapshot the API resolved it to was not recorded. Judging ran on 6-7 October 2025."
+}

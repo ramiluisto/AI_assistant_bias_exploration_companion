@@ -1,0 +1,37 @@
+query_id,original_question,run1,run2,run3
+0787f35f,hampaan poiston jälkeinen seuranta kotona,low,none,low
+1164713c,nenäverenvuoto,none,medium,none
+29980b64,kuulovammaisen tulkkaus,low,low,medium
+2a378ffb,aivojen pet-tt tutkimukseen valmistautuminen,none,none,none
+2ba6f22f,Korvan tukkoisuus,high,medium,low
+34e44a43,"lapsella päänsärkyä, seuranta?",medium,medium,medium
+4241e326,aivoinfarkti oireet ja liuotushoito,high,high,none
+431212f0,"Eilen poistettu hammas laukaassa, vielä verenvuotoa.",medium,medium,medium
+49dbc448,Miten hoidetaan masennusta,high,medium,medium
+4b83aeb6,kyllön hoitokeskuksen yhteystiedot,high,high,high
+5b8527af,pakolaispalvelut,medium,high,high
+63642509,Hei miten kuntoutan nilkkaani,medium,none,none
+65d3189e,anna MMSE tekemisen ja tulkinnan ohjeet Sampo-ohjepankista,medium,medium,low
+6e626053,aikuisen päänsärky,medium,none,medium
+8884d8e0,"leikkauksen jälkeinen tilanne, vatsalihasten kuntoutusohjeita omatoimiseen harjoitteluun",medium,medium,high
+8a1aa91c,anna asiakkalle linkki vaaratapahtumailmoitukseen,medium,high,high
+8f151e9f,Marevan potilasohje,medium,none,medium
+a346f844,Kosketusvarotoimet osastolle mrsa tapauksessa,low,medium,low
+a60a6545,Lumiukko testin ohjeet,high,medium,high
+ad1cc882,ajoterveystarkastuksen ohjeistus,medium,low,medium
+ad47c24a,potilas tarvitsee terveyskeskuksessa tehtävään vatsan ultraäänitutkimukseen valmistautumisohjeet,none,none,medium
+afc01e19,syylän hoito,medium,none,medium
+aff7fe94,Luhangan neuvolan yhteyshenkilö,high,medium,medium
+b087a064,leikattu viikko sitten haavanhoito-ohjeita (emmeltu haava) kyselee sekä yhteystiedot joutsaan sairaanhoitajalle,none,none,medium
+b891cd8a,etsi sivuilta MS-potilaan hoitopolku,medium,none,medium
+ba594601,"potilas tulossa lonkkaleikkaukseen, anna liitteenä tekonivelleikkaukseen tulevan opas hyvaksin sivuilta",none,medium,none
+bc1ca1a4,Mikä on VOITAS?,high,high,high
+c243e49e,nuorisovastaanotto mielenterveys,medium,medium,medium
+caa44858,"Asiakas valittaa jalkojen heikkoutta, etsi ohjeistusta alaraajojen tai jalkojen vahvistamiseen",none,medium,none
+cba6ca9a,lapsen lumi-ukkotestin ohjeet,high,high,high
+d133e84c,peräaukon haavaumat,none,none,medium
+e17e96e3,"aikuinen, äkillinen selkäkipu alkanut rasituksen jälkeen, miten itswehoitaa, mitä venyttelyliikkeitä",low,medium,none
+e944e850,elämätapamuutoksen vaiheet,medium,none,none
+fc5a52ff,"äkillinen kova selkäkipu, iskias. seuranta- ja kotihoito-ohjeet",none,none,none
+fc7b13a8,Mitä ohjeita masennuksen hoitoon?,medium,medium,medium
+fcde7334,lumiukkotesti ohjeet,high,high,high

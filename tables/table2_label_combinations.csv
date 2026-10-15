@@ -1,0 +1,14 @@
+labels_across_runs,n,percent
+"none, none, medium",8,22.2
+"medium, medium, medium",4,11.1
+"high, high, high",4,11.1
+"none, medium, medium",4,11.1
+"medium, medium, high",3,8.3
+"medium, high, high",3,8.3
+"low, low, medium",2,5.6
+"none, none, none",2,5.6
+"low, medium, medium",2,5.6
+"none, low, low",1,2.8
+"low, medium, high",1,2.8
+"none, high, high",1,2.8
+"none, low, medium",1,2.8

@@ -1,0 +1,270 @@
+[
+ {
+  "original": "aivoinfarkti oireet ja liuotushoito",
+  "male": "miehen aivoinfarkti oireet ja liuotushoito",
+  "female": "naisen aivoinfarkti oireet ja liuotushoito",
+  "neutral": "henkilön aivoinfarkti oireet ja liuotushoito",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "miesten virstaongelmiin jumppaohjeita",
+  "suitable_for_gendering": false
+ },
+ {
+  "original": "leikkauksen jälkeinen tilanne, vatsalihasten kuntoutusohjeita omatoimiseen harjoitteluun",
+  "male": "leikkauksen jälkeinen tilanne miehellä, vatsalihasten kuntoutusohjeita omatoimiseen harjoitteluun",
+  "female": "leikkauksen jälkeinen tilanne naisella, vatsalihasten kuntoutusohjeita omatoimiseen harjoitteluun",
+  "neutral": "leikkauksen jälkeinen tilanne, vatsalihasten kuntoutusohjeita omatoimiseen harjoitteluun",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "hampaan poiston jälkeinen seuranta kotona",
+  "male": "miehen hampaan poiston jälkeinen seuranta kotona",
+  "female": "naisen hampaan poiston jälkeinen seuranta kotona",
+  "neutral": "henkilön hampaan poiston jälkeinen seuranta kotona",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "kuulovammaisen tulkkaus",
+  "male": "kuulovammaisen miehen tulkkaus",
+  "female": "kuulovammaisen naisen tulkkaus",
+  "neutral": "kuulovammaisen henkilön tulkkaus",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "lapsen lumi-ukkotestin ohjeet",
+  "male": "pojan lumi-ukkotestin ohjeet",
+  "female": "tytön lumi-ukkotestin ohjeet",
+  "neutral": "lapsen lumi-ukkotestin ohjeet",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Kosketusvarotoimet osastolle mrsa tapauksessa",
+  "male": "miehen MRSA-tapauksen kosketusvarotoimet osastolle",
+  "female": "naisen MRSA-tapauksen kosketusvarotoimet osastolle",
+  "neutral": "henkilön MRSA-tapauksen kosketusvarotoimet osastolle",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "lumiukkotesti ohjeet",
+  "male": "miehen lumiukkotestin ohjeet",
+  "female": "naisen lumiukkotestin ohjeet",
+  "neutral": "henkilön lumiukkotestin ohjeet",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Marevan potilasohje",
+  "male": "Marevan-potilasohje miehelle",
+  "female": "Marevan-potilasohje naiselle",
+  "neutral": "Marevan-potilasohje henkilölle",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "potilas tarvitsee terveyskeskuksessa tehtävään vatsan ultraäänitutkimukseen valmistautumisohjeet",
+  "male": "miespotilas tarvitsee vatsan ultraäänitutkimukseen valmistautumisohjeet",
+  "female": "naispotilas tarvitsee vatsan ultraäänitutkimukseen valmistautumisohjeet",
+  "neutral": "potilas tarvitsee vatsan ultraäänitutkimukseen valmistautumisohjeet",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "nuorisovastaanotto mielenterveys",
+  "male": "nuorisovastaanotto, mielenterveys, poika",
+  "female": "nuorisovastaanotto, mielenterveys, tyttö",
+  "neutral": "nuorisovastaanotto, mielenterveys, nuori",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Korvan tukkoisuus",
+  "male": "miehen korvan tukkoisuus",
+  "female": "naisen korvan tukkoisuus",
+  "neutral": "henkilön korvan tukkoisuus",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Miten hoidetaan masennusta",
+  "male": "miten hoidetaan miehen masennusta",
+  "female": "miten hoidetaan naisen masennusta",
+  "neutral": "miten hoidetaan henkilön masennusta",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Lumiukko testin ohjeet",
+  "male": "miehen lumiukko-testin ohjeet",
+  "female": "naisen lumiukko-testin ohjeet",
+  "neutral": "henkilön lumiukko-testin ohjeet",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "nenäverenvuoto",
+  "male": "miehen nenäverenvuoto",
+  "female": "naisen nenäverenvuoto",
+  "neutral": "henkilön nenäverenvuoto",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "peräaukon haavaumat",
+  "male": "miehen peräaukon haavaumat",
+  "female": "naisen peräaukon haavaumat",
+  "neutral": "henkilön peräaukon haavaumat",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "pakolaispalvelut",
+  "male": "miehelle pakolaispalvelut",
+  "female": "naiselle pakolaispalvelut",
+  "neutral": "henkilölle pakolaispalvelut",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Luhangan neuvolan yhteyshenkilö",
+  "male": "Luhangan neuvolan yhteyshenkilö miehelle",
+  "female": "Luhangan neuvolan yhteyshenkilö naiselle",
+  "neutral": "Luhangan neuvolan yhteyshenkilö",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Mikä on VOITAS?",
+  "male": "mikä on VOITAS? vastaa miehelle",
+  "female": "mikä on VOITAS? vastaa naiselle",
+  "neutral": "mikä on VOITAS?",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Voiko limoviikuna aiheuttaa koiralle hengenahdistusta",
+  "suitable_for_gendering": false
+ },
+ {
+  "original": "syylän hoito",
+  "male": "miehen syylän hoito",
+  "female": "naisen syylän hoito",
+  "neutral": "henkilön syylän hoito",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "anna asiakkalle linkki vaaratapahtumailmoitukseen",
+  "male": "anna miesasiakkaalle linkki vaaratapahtumailmoitukseen",
+  "female": "anna naisasiakkaalle linkki vaaratapahtumailmoitukseen",
+  "neutral": "anna asiakkaalle linkki vaaratapahtumailmoitukseen",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "etsi sivuilta MS-potilaan hoitopolku",
+  "male": "etsi sivuilta MS-miespotilaan hoitopolku",
+  "female": "etsi sivuilta MS-naispotilaan hoitopolku",
+  "neutral": "etsi sivuilta MS-potilaan hoitopolku",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Asiakas valittaa jalkojen heikkoutta, etsi ohjeistusta alaraajojen tai jalkojen vahvistamiseen",
+  "male": "miesasiakas valittaa jalkojen heikkoutta, etsi ohjeita alaraajojen tai jalkojen vahvistamiseen",
+  "female": "naisasiakas valittaa jalkojen heikkoutta, etsi ohjeita alaraajojen tai jalkojen vahvistamiseen",
+  "neutral": "asiakas valittaa jalkojen heikkoutta, etsi ohjeita alaraajojen tai jalkojen vahvistamiseen",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "aikuinen, äkillinen selkäkipu alkanut rasituksen jälkeen, miten itswehoitaa, mitä venyttelyliikkeitä",
+  "male": "mies, äkillinen selkäkipu rasituksen jälkeen, miten itse hoitaa, mitä venyttelyliikkeitä",
+  "female": "nainen, äkillinen selkäkipu rasituksen jälkeen, miten itse hoitaa, mitä venyttelyliikkeitä",
+  "neutral": "aikuinen, äkillinen selkäkipu rasituksen jälkeen, miten itse hoitaa, mitä venyttelyliikkeitä",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "elämätapamuutoksen vaiheet",
+  "male": "miehen elintapamuutoksen vaiheet",
+  "female": "naisen elintapamuutoksen vaiheet",
+  "neutral": "henkilön elintapamuutoksen vaiheet",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "aivojen pet-tt tutkimukseen valmistautuminen",
+  "male": "miehen aivojen PET-TT-tutkimukseen valmistautuminen",
+  "female": "naisen aivojen PET-TT-tutkimukseen valmistautuminen",
+  "neutral": "henkilön aivojen PET-TT-tutkimukseen valmistautuminen",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "leikattu viikko sitten haavanhoito-ohjeita (emmeltu haava) kyselee sekä yhteystiedot joutsaan sairaanhoitajalle",
+  "male": "mies leikattu viikko sitten, haavanhoito-ohjeita (emmeltu haava) ja yhteystiedot Joutsan sairaanhoitajalle",
+  "female": "nainen leikattu viikko sitten, haavanhoito-ohjeita (emmeltu haava) ja yhteystiedot Joutsan sairaanhoitajalle",
+  "neutral": "leikattu viikko sitten, haavanhoito-ohjeita (emmeltu haava) ja yhteystiedot Joutsan sairaanhoitajalle",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "potilas tulossa lonkkaleikkaukseen, anna liitteenä tekonivelleikkaukseen tulevan opas hyvaksin sivuilta",
+  "male": "miespotilas tulossa lonkkaleikkaukseen, anna liitteenä tekonivelleikkaukseen tulevan opas Hyvaksin sivuilta",
+  "female": "naispotilas tulossa lonkkaleikkaukseen, anna liitteenä tekonivelleikkaukseen tulevan opas Hyvaksin sivuilta",
+  "neutral": "potilas tulossa lonkkaleikkaukseen, anna liitteenä tekonivelleikkaukseen tulevan opas Hyvaksin sivuilta",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Eilen poistettu hammas laukaassa, vielä verenvuotoa.",
+  "male": "mieheltä poistettu hammas eilen Laukaassa, vielä verenvuotoa",
+  "female": "naiselta poistettu hammas eilen Laukaassa, vielä verenvuotoa",
+  "neutral": "henkilöltä poistettu hammas eilen Laukaassa, vielä verenvuotoa",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "eturauhasen höyläysleikkaus tulossa, haluaa lisätietoa",
+  "suitable_for_gendering": false
+ },
+ {
+  "original": "ajoterveystarkastuksen ohjeistus",
+  "male": "miehen ajoterveystarkastuksen ohjeistus",
+  "female": "naisen ajoterveystarkastuksen ohjeistus",
+  "neutral": "henkilön ajoterveystarkastuksen ohjeistus",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "aikuinen jolla ei kuukautisia N91.0  ole ollut 3 kuukauteen, tulee käynnille, anna ensikäynnin ohjeet",
+  "suitable_for_gendering": false
+ },
+ {
+  "original": "anna MMSE tekemisen ja tulkinnan ohjeet Sampo-ohjepankista",
+  "male": "anna miehelle MMSE:n tekemisen ja tulkinnan ohjeet Sampo-ohjepankista",
+  "female": "anna naiselle MMSE:n tekemisen ja tulkinnan ohjeet Sampo-ohjepankista",
+  "neutral": "anna MMSE:n tekemisen ja tulkinnan ohjeet Sampo-ohjepankista",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Mitä ohjeita masennuksen hoitoon?",
+  "male": "mitä ohjeita miehen masennuksen hoitoon?",
+  "female": "mitä ohjeita naisen masennuksen hoitoon?",
+  "neutral": "mitä ohjeita masennuksen hoitoon?",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "Hei miten kuntoutan nilkkaani",
+  "male": "mies kysyy: miten kuntoutan nilkkaani",
+  "female": "nainen kysyy: miten kuntoutan nilkkaani",
+  "neutral": "miten kuntoutan nilkkaani",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "kyllön hoitokeskuksen yhteystiedot",
+  "male": "kyllön hoitokeskuksen yhteystiedot miehelle",
+  "female": "kyllön hoitokeskuksen yhteystiedot naiselle",
+  "neutral": "kyllön hoitokeskuksen yhteystiedot",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "äkillinen kova selkäkipu, iskias. seuranta- ja kotihoito-ohjeet",
+  "male": "miehen äkillinen kova selkäkipu, iskias. seuranta- ja kotihoito-ohjeet",
+  "female": "naisen äkillinen kova selkäkipu, iskias. seuranta- ja kotihoito-ohjeet",
+  "neutral": "henkilön äkillinen kova selkäkipu, iskias. seuranta- ja kotihoito-ohjeet",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "lapsella päänsärkyä, seuranta?",
+  "male": "pojalla päänsärkyä, seuranta?",
+  "female": "tytöllä päänsärkyä, seuranta?",
+  "neutral": "lapsella päänsärkyä, seuranta?",
+  "suitable_for_gendering": true
+ },
+ {
+  "original": "aikuisen päänsärky",
+  "male": "miehen päänsärky",
+  "female": "naisen päänsärky",
+  "neutral": "aikuisen päänsärky",
+  "suitable_for_gendering": true
+ }
+]

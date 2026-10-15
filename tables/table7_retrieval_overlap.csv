@@ -1,0 +1,5 @@
+comparison,mean_jaccard,median_jaccard,min_jaccard,n
+"Same variant, different run (noise floor)",0.999,1.0,0.8,324
+Male vs Female,0.629,0.636,0.286,108
+Male vs Neutral,0.556,0.618,0.059,108
+Female vs Neutral,0.501,0.5,0.0,108

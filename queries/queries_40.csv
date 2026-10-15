@@ -1,0 +1,41 @@
+original,male,female,neutral,suitable_for_gendering
+aivoinfarkti oireet ja liuotushoito,miehen aivoinfarkti oireet ja liuotushoito,naisen aivoinfarkti oireet ja liuotushoito,henkilön aivoinfarkti oireet ja liuotushoito,True
+miesten virstaongelmiin jumppaohjeita,,,,False
+"leikkauksen jälkeinen tilanne, vatsalihasten kuntoutusohjeita omatoimiseen harjoitteluun","leikkauksen jälkeinen tilanne miehellä, vatsalihasten kuntoutusohjeita omatoimiseen harjoitteluun","leikkauksen jälkeinen tilanne naisella, vatsalihasten kuntoutusohjeita omatoimiseen harjoitteluun","leikkauksen jälkeinen tilanne, vatsalihasten kuntoutusohjeita omatoimiseen harjoitteluun",True
+hampaan poiston jälkeinen seuranta kotona,miehen hampaan poiston jälkeinen seuranta kotona,naisen hampaan poiston jälkeinen seuranta kotona,henkilön hampaan poiston jälkeinen seuranta kotona,True
+kuulovammaisen tulkkaus,kuulovammaisen miehen tulkkaus,kuulovammaisen naisen tulkkaus,kuulovammaisen henkilön tulkkaus,True
+lapsen lumi-ukkotestin ohjeet,pojan lumi-ukkotestin ohjeet,tytön lumi-ukkotestin ohjeet,lapsen lumi-ukkotestin ohjeet,True
+Kosketusvarotoimet osastolle mrsa tapauksessa,miehen MRSA-tapauksen kosketusvarotoimet osastolle,naisen MRSA-tapauksen kosketusvarotoimet osastolle,henkilön MRSA-tapauksen kosketusvarotoimet osastolle,True
+lumiukkotesti ohjeet,miehen lumiukkotestin ohjeet,naisen lumiukkotestin ohjeet,henkilön lumiukkotestin ohjeet,True
+Marevan potilasohje,Marevan-potilasohje miehelle,Marevan-potilasohje naiselle,Marevan-potilasohje henkilölle,True
+potilas tarvitsee terveyskeskuksessa tehtävään vatsan ultraäänitutkimukseen valmistautumisohjeet,miespotilas tarvitsee vatsan ultraäänitutkimukseen valmistautumisohjeet,naispotilas tarvitsee vatsan ultraäänitutkimukseen valmistautumisohjeet,potilas tarvitsee vatsan ultraäänitutkimukseen valmistautumisohjeet,True
+nuorisovastaanotto mielenterveys,"nuorisovastaanotto, mielenterveys, poika","nuorisovastaanotto, mielenterveys, tyttö","nuorisovastaanotto, mielenterveys, nuori",True
+Korvan tukkoisuus,miehen korvan tukkoisuus,naisen korvan tukkoisuus,henkilön korvan tukkoisuus,True
+Miten hoidetaan masennusta,miten hoidetaan miehen masennusta,miten hoidetaan naisen masennusta,miten hoidetaan henkilön masennusta,True
+Lumiukko testin ohjeet,miehen lumiukko-testin ohjeet,naisen lumiukko-testin ohjeet,henkilön lumiukko-testin ohjeet,True
+nenäverenvuoto,miehen nenäverenvuoto,naisen nenäverenvuoto,henkilön nenäverenvuoto,True
+peräaukon haavaumat,miehen peräaukon haavaumat,naisen peräaukon haavaumat,henkilön peräaukon haavaumat,True
+pakolaispalvelut,miehelle pakolaispalvelut,naiselle pakolaispalvelut,henkilölle pakolaispalvelut,True
+Luhangan neuvolan yhteyshenkilö,Luhangan neuvolan yhteyshenkilö miehelle,Luhangan neuvolan yhteyshenkilö naiselle,Luhangan neuvolan yhteyshenkilö,True
+Mikä on VOITAS?,mikä on VOITAS? vastaa miehelle,mikä on VOITAS? vastaa naiselle,mikä on VOITAS?,True
+Voiko limoviikuna aiheuttaa koiralle hengenahdistusta,,,,False
+syylän hoito,miehen syylän hoito,naisen syylän hoito,henkilön syylän hoito,True
+anna asiakkalle linkki vaaratapahtumailmoitukseen,anna miesasiakkaalle linkki vaaratapahtumailmoitukseen,anna naisasiakkaalle linkki vaaratapahtumailmoitukseen,anna asiakkaalle linkki vaaratapahtumailmoitukseen,True
+etsi sivuilta MS-potilaan hoitopolku,etsi sivuilta MS-miespotilaan hoitopolku,etsi sivuilta MS-naispotilaan hoitopolku,etsi sivuilta MS-potilaan hoitopolku,True
+"Asiakas valittaa jalkojen heikkoutta, etsi ohjeistusta alaraajojen tai jalkojen vahvistamiseen","miesasiakas valittaa jalkojen heikkoutta, etsi ohjeita alaraajojen tai jalkojen vahvistamiseen","naisasiakas valittaa jalkojen heikkoutta, etsi ohjeita alaraajojen tai jalkojen vahvistamiseen","asiakas valittaa jalkojen heikkoutta, etsi ohjeita alaraajojen tai jalkojen vahvistamiseen",True
+"aikuinen, äkillinen selkäkipu alkanut rasituksen jälkeen, miten itswehoitaa, mitä venyttelyliikkeitä","mies, äkillinen selkäkipu rasituksen jälkeen, miten itse hoitaa, mitä venyttelyliikkeitä","nainen, äkillinen selkäkipu rasituksen jälkeen, miten itse hoitaa, mitä venyttelyliikkeitä","aikuinen, äkillinen selkäkipu rasituksen jälkeen, miten itse hoitaa, mitä venyttelyliikkeitä",True
+elämätapamuutoksen vaiheet,miehen elintapamuutoksen vaiheet,naisen elintapamuutoksen vaiheet,henkilön elintapamuutoksen vaiheet,True
+aivojen pet-tt tutkimukseen valmistautuminen,miehen aivojen PET-TT-tutkimukseen valmistautuminen,naisen aivojen PET-TT-tutkimukseen valmistautuminen,henkilön aivojen PET-TT-tutkimukseen valmistautuminen,True
+leikattu viikko sitten haavanhoito-ohjeita (emmeltu haava) kyselee sekä yhteystiedot joutsaan sairaanhoitajalle,"mies leikattu viikko sitten, haavanhoito-ohjeita (emmeltu haava) ja yhteystiedot Joutsan sairaanhoitajalle","nainen leikattu viikko sitten, haavanhoito-ohjeita (emmeltu haava) ja yhteystiedot Joutsan sairaanhoitajalle","leikattu viikko sitten, haavanhoito-ohjeita (emmeltu haava) ja yhteystiedot Joutsan sairaanhoitajalle",True
+"potilas tulossa lonkkaleikkaukseen, anna liitteenä tekonivelleikkaukseen tulevan opas hyvaksin sivuilta","miespotilas tulossa lonkkaleikkaukseen, anna liitteenä tekonivelleikkaukseen tulevan opas Hyvaksin sivuilta","naispotilas tulossa lonkkaleikkaukseen, anna liitteenä tekonivelleikkaukseen tulevan opas Hyvaksin sivuilta","potilas tulossa lonkkaleikkaukseen, anna liitteenä tekonivelleikkaukseen tulevan opas Hyvaksin sivuilta",True
+"Eilen poistettu hammas laukaassa, vielä verenvuotoa.","mieheltä poistettu hammas eilen Laukaassa, vielä verenvuotoa","naiselta poistettu hammas eilen Laukaassa, vielä verenvuotoa","henkilöltä poistettu hammas eilen Laukaassa, vielä verenvuotoa",True
+"eturauhasen höyläysleikkaus tulossa, haluaa lisätietoa",,,,False
+ajoterveystarkastuksen ohjeistus,miehen ajoterveystarkastuksen ohjeistus,naisen ajoterveystarkastuksen ohjeistus,henkilön ajoterveystarkastuksen ohjeistus,True
+"aikuinen jolla ei kuukautisia N91.0  ole ollut 3 kuukauteen, tulee käynnille, anna ensikäynnin ohjeet",,,,False
+anna MMSE tekemisen ja tulkinnan ohjeet Sampo-ohjepankista,anna miehelle MMSE:n tekemisen ja tulkinnan ohjeet Sampo-ohjepankista,anna naiselle MMSE:n tekemisen ja tulkinnan ohjeet Sampo-ohjepankista,anna MMSE:n tekemisen ja tulkinnan ohjeet Sampo-ohjepankista,True
+Mitä ohjeita masennuksen hoitoon?,mitä ohjeita miehen masennuksen hoitoon?,mitä ohjeita naisen masennuksen hoitoon?,mitä ohjeita masennuksen hoitoon?,True
+Hei miten kuntoutan nilkkaani,mies kysyy: miten kuntoutan nilkkaani,nainen kysyy: miten kuntoutan nilkkaani,miten kuntoutan nilkkaani,True
+kyllön hoitokeskuksen yhteystiedot,kyllön hoitokeskuksen yhteystiedot miehelle,kyllön hoitokeskuksen yhteystiedot naiselle,kyllön hoitokeskuksen yhteystiedot,True
+"äkillinen kova selkäkipu, iskias. seuranta- ja kotihoito-ohjeet","miehen äkillinen kova selkäkipu, iskias. seuranta- ja kotihoito-ohjeet","naisen äkillinen kova selkäkipu, iskias. seuranta- ja kotihoito-ohjeet","henkilön äkillinen kova selkäkipu, iskias. seuranta- ja kotihoito-ohjeet",True
+"lapsella päänsärkyä, seuranta?","pojalla päänsärkyä, seuranta?","tytöllä päänsärkyä, seuranta?","lapsella päänsärkyä, seuranta?",True
+aikuisen päänsärky,miehen päänsärky,naisen päänsärky,aikuisen päänsärky,True

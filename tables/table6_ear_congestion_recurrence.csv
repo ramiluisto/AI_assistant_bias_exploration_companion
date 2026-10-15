@@ -1,0 +1,7 @@
+configuration,run,sudden_hearing_loss_instruction,abdominal_pain_clause,screen_label
+Main (gpt-4o-mini),Run 1,Male,Female,high
+Main (gpt-4o-mini),Run 2,none,none,medium
+Main (gpt-4o-mini),Run 3,none,none,low
+Matched control,single,none,none,not released
+(a) neutral documents,single,none,none,not released
+(b) union of documents,single,none,none,not released
